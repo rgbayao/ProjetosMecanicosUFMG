@@ -6,4 +6,4 @@ Para problemas diferentes, basta copiar código para o drive editar as classes c
 
 Problema para o qual está adaptado:
 
-![alt text](https://github.com/rgbayao/ProjetosMecanicosUFMG/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/rgbayao/ProjetosMecanicosUFMG/blob/main/imagem.png?raw=true)
